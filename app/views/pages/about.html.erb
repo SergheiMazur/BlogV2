@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About page</title>
+<style>
+
+div {
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.container {
+    min-height: 100%;
+    overflow: hidden;
+    width: 100%;
+}
+.header li{
+    display: inline; /* the default for span */
+
+}
+
+div.inline { float:left; padding-left: 100px;padding-right: 100px; text-align:center;}
+.clearBoth { clear:both; }
+</style>
+</head>
+<body>
+<div class="container">
+  <ul class="header">
+    <li><%= link_to  'Home', root_path %></li>
+    <li><h1 align="center">About page</h1></li>
+  </ul>
+
+  <div>
+   <img src="https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="Beach View" class="center">
+  </div>
+  <div align="center" class="footer" >
+    <p>This is a paragraph. This text has no alignment specified.</p>
+    <div class="inline"><p>link 1</p></div>
+    <div class="inline"><p>link 2</p></div>
+    <div class="inline"><p>link 3</p></div>
+    <div class="inline"><p>link 4</p></div>
+  </div>
+</div>
+
+
+</body>
+</html>
