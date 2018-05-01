@@ -1,0 +1,53 @@
+[33mcommit 71e2c17679967fdd99390760466316e3d6235c8d[m[33m ([m[1;36mHEAD -> [m[1;32mserhio[m[33m)[m
+Author: Serhio <Serhio@gmail.com>
+Date:   Tue May 1 00:31:23 2018 +0000
+
+    Serhio2 name
+
+[33mcommit f7b8a1bf8b9e611e23dcf4a3e941b9a94a8a5b97[m
+Author: Serhio <Serhio@gmail.com>
+Date:   Tue May 1 00:30:54 2018 +0000
+
+    Serhio name
+
+[33mcommit 84bffe2cf49fe1f9ba7ce55dc0c04a7071466c3a[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Serhio <Serhio@gmail.com>
+Date:   Tue May 1 00:27:24 2018 +0000
+
+    add new action edit article
+
+[33mcommit 97e4412e0df583cfa45957bbcf43c1ff604c5989[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: Serhio <Serhio@gmail.com>
+Date:   Mon Apr 30 02:14:01 2018 +0000
+
+    Fix create, add flash and error messages
+
+[33mcommit 5ea409fc77a32840687e4cc5fd334ff53cda38bf[m
+Author: Serhio <Serhio@gmail.com>
+Date:   Sun Apr 29 23:17:47 2018 +0000
+
+    create new template, action and routes
+
+[33mcommit 900d727517d678552c94154a17f98013f629fa7a[m
+Author: Serhio <Serhio@gmail.com>
+Date:   Sun Apr 29 22:48:54 2018 +0000
+
+    create article model
+
+[33mcommit 642767fd72743da87e6d0772937bf06c92238fc5[m
+Author: Serhio <Serhio@gmail.com>
+Date:   Sun Apr 29 04:08:58 2018 +0000
+
+    New design of About page
+
+[33mcommit bf3287df3dd7667ef08f89ce2673282444f10d5c[m
+Author: Serhio <Serhio@gmail.com>
+Date:   Sun Apr 29 03:38:28 2018 +0000
+
+    Production ready
+
+[33mcommit b9fd4eea3cfdf929d67ea8314ff269046b9fba43[m
+Author: Serhio <Serhio@gmail.com>
+Date:   Sun Apr 29 02:49:33 2018 +0000
+
+    Create rails application and setup home as a root
