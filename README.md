@@ -1,24 +1,16 @@
-# README
+# Project Title
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+BlogV2
 
-Things you may want to cover:
 
-* Ruby version
+## Getting Started
 
-* System dependencies
+Simple blog with associations and authentication systems (without Devise gem)
 
-* Configuration
 
-* Database creation
+### Installing
 
-* Database initialization
+Rails 5.2.0
+ruby 2.4.1p111 (2017-03-22 revision 58053)
+Bootstrap-sass 3.3.7
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
